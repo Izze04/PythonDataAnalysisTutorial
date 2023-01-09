@@ -27,7 +27,7 @@ def constant(x, c):
 
 def fit_constant(xs,dxs):
     # implement a set of histogram fits
-    
+    print("hey")
     x_array = np.array(xs)
     dx_array = np.array(dxs)
     
