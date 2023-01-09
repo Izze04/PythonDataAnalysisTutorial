@@ -30,7 +30,7 @@ def fit_constant(xs,dxs):
     print("hey")
     x_array = np.array(xs)
     dx_array = np.array(dxs)
-    
+    print("sup mama")
     # fit with uncertainties
     print("\n== Fit including uncertainties")
     pname = ['Constant']
